@@ -41,6 +41,7 @@ The characteristic pictures made in jupyter notebook were updated in the master 
 
 ## Acknowledgement
 This study is a part of a project in Udacity Data Scientist Nanodegree
+
 A part of functions in this study refered to the following two excellent works
 - https://github.com/bassemessam/Seattle-Airbnb-study.git
 - https://github.com/MissRitter/AirbnbSeattle_price_analysis.git
