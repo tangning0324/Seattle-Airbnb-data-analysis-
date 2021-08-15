@@ -25,7 +25,7 @@ The Airbnb Seattle data was obtained in https://www.kaggle.com/airbnb/seattle/da
 - reviews.csv
 
 ## Picture /master
-The characteristic pictures made in jupyter notebook were updated in master branched repository
+The characteristic pictures made in jupyter notebook were updated in the master branched repository
 - date_and_price★
 - month_and_price★
 - week_and_price★
