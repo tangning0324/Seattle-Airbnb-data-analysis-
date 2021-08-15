@@ -39,7 +39,7 @@ The characteristic pictures made in jupyter notebook were updated in master bran
 - Property_price_review_scores★
 - room_price_rating★
 
-##Acknowledgement
+## Acknowledgement
 This study is a part of a project in Udacity Data Scientist Nanodegree
 A part of functions in this study refered to the following two excellent works
 https://github.com/bassemessam/Seattle-Airbnb-study.git
