@@ -47,7 +47,7 @@ The characteristic pictures made in jupyter notebook were updated in the master 
 
 ## Documentation
 - A Brief Research Report of Airbnb in Seattle
-A blog related to this study can be access by this url https://medium.com/@xingzhitangning/a-brief-research-report-of-airbnb-in-seattle-8856d1ebd2df
+A blog related to this study can be access by the following url https://medium.com/@xingzhitangning/a-brief-research-report-of-airbnb-in-seattle-8856d1ebd2df
 
 ## Conclusion
 Through the above analysis, we can get the following conclusions.
