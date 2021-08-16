@@ -2,7 +2,13 @@
 
 ## Inspiration
 The purpose of this study is to make a deep understanding of the price of Seattle Airbnb and to provide some insights for the hosts to
-increase their income.
+increase their income. In this study, the answers of the following three questions was puesued.
+
+1.What is the busiest times of the year to visit Seattle? By how much do prices spike?
+
+2.What factors have a relationship with the price of Seattle Airbnb?
+
+3.Is the performance of the hosts affectting the price of Seattle Airbnb?
 
 ## Packages
 - jupyter 1.0.0
@@ -38,6 +44,13 @@ The characteristic pictures made in jupyter notebook were updated in the master 
 - property and review scores★
 - Property_price_review_scores★
 - room_price_rating★
+
+## Conclusion
+Through the above analysis, we can get the following conclusions.
+- July to September is the busiest period for Airbnb in Seattle, and prices are about $30 higher than in January and February, which is probably related to summer holidays. And no matter what the period is, weekend rates are $5–10 higher than weekday rates.
+  City centers and popular tourist spots are generally more expensive, averaging $70–100 more than the lower priced places.
+- Improving the value and sanitary conditions of the accommodation may be effective in earning a high review scores rating and even gaining more repeat customers.
+- The host performance has a higher correlation to the price than that of the convenient factors.
 
 ## Acknowledgement
 This study is a part of a project in Udacity Data Scientist Nanodegree
