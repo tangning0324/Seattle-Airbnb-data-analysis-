@@ -45,6 +45,10 @@ The characteristic pictures made in jupyter notebook were updated in the master 
 - Property_price_review_scores★
 - room_price_rating★
 
+## Documentation
+- A Brief Research Report of Airbnb in Seattle
+A blog related to this study can be access by this url https://medium.com/@xingzhitangning/a-brief-research-report-of-airbnb-in-seattle-8856d1ebd2df
+
 ## Conclusion
 Through the above analysis, we can get the following conclusions.
 - July to September is the busiest period for Airbnb in Seattle, and prices are about $30 higher than in January and February, which is probably related to summer holidays. And no matter what the period is, weekend rates are $5–10 higher than weekday rates.
