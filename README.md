@@ -2,7 +2,7 @@
 
 ## Inspiration
 The purpose of this study is to make a deep understanding of the price of Seattle Airbnb and to provide some insights for the hosts to
-increase their income. In this study, the answers of the following three questions were puesued.
+increase their income. In this study, the answers of the following three questions were pursued.
 
 1.What is the busiest times of the year to visit Seattle? By how much do prices spike?
 
